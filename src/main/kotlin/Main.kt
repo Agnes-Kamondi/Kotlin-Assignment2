@@ -26,9 +26,6 @@ fun add(numA:Int, numB:Int, numC:Int,numD:Int):Int{
     return sum
 }
 fun about(intro:Char,wat:String,end:String): String{
-    var intro = 'I'
-    var wat = "am"
-    var end = "Phenomenal"
     var sentence = intro +"" +wat +""+ end
     return sentence
 }
